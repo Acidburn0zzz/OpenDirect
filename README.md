@@ -1,32 +1,31 @@
-# Open Direct #
-OpenDirect enables publishers to offer premium inventory using a programmatic interface that partners and vendors build according to the OpenDirect specifications.
+OpenDirect permet aux éditeurs de proposer un inventaire premium à l'aide d'une interface de programmation que les partenaires et les fournisseurs créent conformément aux spécifications OpenDirect.
 
-Every organization in the industry uses some kind of interface (or a combination thereof) to manage inventory throughout the buying and selling of premium, reserved inventory. Each system is different, which means if one partner wants to integrate their system with another system, the integration is customized to that system. Further integrations all require customization, each instance consuming valuable overhead. While the overhead enables more business, cutting down on the cost of these integrations allows resources to be diverted to more important ad operations tasks.
+Chaque organisation du secteur utilise une sorte d'interface (ou une combinaison de celles-ci) pour gérer l'inventaire tout au long de l'achat et de la vente d'inventaires réservés premium. Chaque système est différent, ce qui signifie que si un partenaire souhaite intégrer son système à un autre système, l'intégration est personnalisée pour ce système. Les intégrations ultérieures nécessitent toutes une personnalisation, chaque instance consommant une surcharge précieuse. Alors que les frais généraux permettent plus d'affaires, la réduction du coût de ces intégrations permet de détourner les ressources vers des tâches d'opérations publicitaires plus importantes.
 
-OpenDirect provides a standard way for publishers to make their inventory available in any OpenDirect-compliant interface where agencies and advertisers can reserve premium inventory.
+OpenDirect fournit aux éditeurs un moyen standard de rendre leur inventaire disponible dans n'importe quelle interface compatible OpenDirect où les agences et les annonceurs peuvent réserver un inventaire premium.
 
-For publishers, this means that in a programmatic marketplace, publishers can make premium guaranteed inventory available to more buyers. Tech providers can offer a greater variety of premium inventory to their customers. For the industry, a marketplace that uses OpenDirect means more fluid movement of inventory while greatly reducing the overhead involved when integrating with partners.
+Pour les éditeurs, cela signifie que sur une place de marché programmatique, les éditeurs peuvent mettre un inventaire premium garanti à la disposition d'un plus grand nombre d'acheteurs. Les fournisseurs de technologies peuvent offrir une plus grande variété d'inventaires premium à leurs clients. Pour l'industrie, un marché qui utilise OpenDirect signifie un mouvement plus fluide des stocks tout en réduisant considérablement les frais généraux impliqués lors de l'intégration avec les partenaires.
 
-Adoption of OpenDirect also opens the doorway to improved tracking of inventory across systems, providing early visibility reporting and potentially reducing discrepancies down the road. While OpenDirect does not directly enable improved impression counting between parties, it does lay the foundation for opportunities to improve impression reporting between systems.
+L'adoption d'OpenDirect ouvre également la porte à un meilleur suivi des stocks entre les systèmes, fournissant des rapports de visibilité précoces et réduisant potentiellement les écarts sur la route. Bien qu'OpenDirect ne permet pas directement d'améliorer le comptage des impressions entre les parties, il jette les bases d'opportunités d'améliorer le rapport d'impressions entre les systèmes.
 
-Publishers can begin using OpenDirect by modifying their systems to log Organizational IDs and accounts consistent with the specs in this document. They also need to be able to respond to API requests for inventory details as well as manage inventory in response to API requests.
+Les éditeurs peuvent commencer à utiliser OpenDirect en modifiant leurs systèmes pour enregistrer les identifiants et les comptes d'organisation conformes aux spécifications de ce document. Ils doivent également être en mesure de répondre aux demandes d'API pour les détails de l'inventaire ainsi que de gérer l'inventaire en réponse aux demandes d'API.
 
-Tech providers who want to use OpenDirect need to make use of the API in this spec as they design and build their interfaces for offering automated guaranteed inventory.
+Les fournisseurs de technologie qui souhaitent utiliser OpenDirect doivent utiliser l'API de cette spécification lorsqu'ils conçoivent et construisent leurs interfaces pour offrir un inventaire garanti automatisé.
 
-As OpenDirect becomes more adopted in the marketplace, the movement of premium inventory becomes more fluid.
+À mesure qu'OpenDirect devient de plus en plus adopté sur le marché, le mouvement des stocks premium devient plus fluide.
+À propos du laboratoire technologique de l'IAB
 
-# About the IAB Technology Lab #
-The IAB Technology Laboratory is a nonprofit research and development consortium charged with producing and helping companies implement global industry technical standards and solutions. The goal of the Tech Lab is to reduce friction associated with the digital advertising and marketing supply chain while contributing to the safe growth of an industry.
+L'IAB Technology Laboratory est un consortium de recherche et développement à but non lucratif chargé de produire et d'aider les entreprises à mettre en œuvre des normes et des solutions techniques de l'industrie mondiale. L'objectif du Tech Lab est de réduire les frictions associées à la chaîne d'approvisionnement de la publicité et du marketing numériques tout en contribuant à la croissance sûre d'une industrie.
 
-The IAB Tech Lab spearheads the development of technical standards, creates and maintains a code library to assist in rapid, cost-effective implementation of IAB standards, and establishes a test platform for companies to evaluate the compatibility of their technology solutions with IAB standards, which for 18 years have been the foundation for interoperability and profitable growth in the digital advertising supply chain.
+L'IAB Tech Lab dirige le développement de normes techniques, crée et maintient une bibliothèque de codes pour aider à la mise en œuvre rapide et rentable des normes IAB, et établit une plate-forme de test pour les entreprises afin d'évaluer la compatibilité de leurs solutions technologiques avec les normes IAB, qui depuis 18 ans sont le fondement de l'interopérabilité et de la croissance rentable de la chaîne d'approvisionnement publicitaire numérique.
 
-The OpenDirect Work Group is a working group within the IAB Technology Lab. Further details about the IAB Technology Lab can be found at: [www.iab.com/organizations/iab-tech-lab](http://www.iab.com/organizations/iab-tech-lab)
+Le groupe de travail OpenDirect est un groupe de travail au sein de l'IAB Technology Lab. De plus amples informations sur l'IAB Technology Lab sont disponibles sur : www.iab.com/organizations/iab-tech-lab
 
-Jennifer Derke  
-Senior Manager, Product  
-IAB Technology Lab  
-[jennifer@iabtechlab.com](mailto:jennifer@iabtechlab.com)
+Jennifer Derké
+Gestionnaire principal, produit
+Laboratoire de technologie IAB
+jennifer@iabtechlab.com
 
-The industry effort to promote and establish OpenDirect in the marketplace is open to suggestions for new features and solutions for increasing adoption (as well as new adopters).
+L'effort de l'industrie pour promouvoir et établir OpenDirect sur le marché est ouvert aux suggestions de nouvelles fonctionnalités et solutions pour augmenter l'adoption (ainsi que les nouveaux utilisateurs).
 
-Contact the IAB AdTech Lab at [adtechnology@iab.com](mailto:adtechnology@iab.com) to get involved.
+Contactez l'IAB AdTech Lab à adtechnology@iab.com pour vous impliquer.
